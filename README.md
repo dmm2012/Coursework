@@ -1,7 +1,7 @@
 # Coursework
 This repository contains miscellaneous programs from homework and in-class assignments at UNH. A short description of each program is listed below.
 
-• RQuiz_FARS - An R program solving the following in-class quiz questions:
+• RQuiz_FARS - An R program using the US Fatality Analysis Recording System (FARS) dataset to solve the following in-class quiz questions:
 
 - How many cases within the FARS dataset have the age as "not reported"?
 - How many cases within the FARS dataset have the same modelyr and year of accident?
